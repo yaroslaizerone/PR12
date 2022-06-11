@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/button.xml" value="0.196" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/button_ball.xml" value="0.196" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/round.xml" value="0.196" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/round_bt.xml" value="0.196" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/round_bt2.xml" value="0.196" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/drawable/round_bt3.xml" value="0.312" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/layout/activity_end_timer.xml" value="0.13957375679063935" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/layout/activity_map.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/layout/activity_settings.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/layout/activity_taxi.xml" value="0.2390745501285347" />
+        <entry key="..\:/Users/kolpa/AndroidStudioProjects/PR13/app/src/main/res/layout/activity_timer.xml" value="0.1" />
         <entry key="..\:/Users/kolpa/AndroidStudioProjects/pr12_kolpackov2/app/src/main/res/drawable/button.xml" value="0.3365" />
         <entry key="..\:/Users/kolpa/AndroidStudioProjects/pr12_kolpackov2/app/src/main/res/drawable/button_ball.xml" value="0.3365" />
         <entry key="..\:/Users/kolpa/AndroidStudioProjects/pr12_kolpackov2/app/src/main/res/layout/activity_five.xml" value="0.2" />

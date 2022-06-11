@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pr12_kolpackov">
         <activity
+            android:name=".end_timer"
+            android:exported="false" />
+        <activity
+            android:name=".timer"
+            android:exported="false" />
+        <activity
+            android:name=".Taxi"
+            android:exported="false" />
+        <activity
             android:name=".map"
             android:exported="false" />
         <activity
